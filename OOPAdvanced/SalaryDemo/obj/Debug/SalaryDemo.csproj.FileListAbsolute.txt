@@ -1,0 +1,7 @@
+D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemo\bin\Debug\SalaryDemo.exe.config
+D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemo\bin\Debug\SalaryDemo.exe
+D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemo\bin\Debug\SalaryDemo.pdb
+D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemo\obj\Debug\SalaryDemo.csprojResolveAssemblyReference.cache
+D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemo\obj\Debug\SalaryDemo.csproj.CoreCompileInputs.cache
+D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemo\obj\Debug\SalaryDemo.exe
+D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemo\obj\Debug\SalaryDemo.pdb

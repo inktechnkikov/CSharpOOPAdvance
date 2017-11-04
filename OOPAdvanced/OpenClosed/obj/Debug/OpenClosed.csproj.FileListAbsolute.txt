@@ -1,0 +1,7 @@
+D:\projects\C#OOP-Advanced\OOPAdvanced\OpenClosed\bin\Debug\OpenClosed.exe.config
+D:\projects\C#OOP-Advanced\OOPAdvanced\OpenClosed\bin\Debug\OpenClosed.exe
+D:\projects\C#OOP-Advanced\OOPAdvanced\OpenClosed\bin\Debug\OpenClosed.pdb
+D:\projects\C#OOP-Advanced\OOPAdvanced\OpenClosed\obj\Debug\OpenClosed.csprojResolveAssemblyReference.cache
+D:\projects\C#OOP-Advanced\OOPAdvanced\OpenClosed\obj\Debug\OpenClosed.csproj.CoreCompileInputs.cache
+D:\projects\C#OOP-Advanced\OOPAdvanced\OpenClosed\obj\Debug\OpenClosed.exe
+D:\projects\C#OOP-Advanced\OOPAdvanced\OpenClosed\obj\Debug\OpenClosed.pdb

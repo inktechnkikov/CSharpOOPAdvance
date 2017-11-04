@@ -1,0 +1,7 @@
+D:\projects\C#OOP-Advanced\OOPAdvanced\DiscountCalculatorRefactored\bin\Debug\DiscountCalculatorRefactored.exe.config
+D:\projects\C#OOP-Advanced\OOPAdvanced\DiscountCalculatorRefactored\bin\Debug\DiscountCalculatorRefactored.exe
+D:\projects\C#OOP-Advanced\OOPAdvanced\DiscountCalculatorRefactored\bin\Debug\DiscountCalculatorRefactored.pdb
+D:\projects\C#OOP-Advanced\OOPAdvanced\DiscountCalculatorRefactored\obj\Debug\DiscountCalculatorRefactored.csprojResolveAssemblyReference.cache
+D:\projects\C#OOP-Advanced\OOPAdvanced\DiscountCalculatorRefactored\obj\Debug\DiscountCalculatorRefactored.csproj.CoreCompileInputs.cache
+D:\projects\C#OOP-Advanced\OOPAdvanced\DiscountCalculatorRefactored\obj\Debug\DiscountCalculatorRefactored.exe
+D:\projects\C#OOP-Advanced\OOPAdvanced\DiscountCalculatorRefactored\obj\Debug\DiscountCalculatorRefactored.pdb

@@ -1,0 +1,7 @@
+D:\projects\C#OOP-Advanced\OOPAdvanced\GenericDemo\bin\Debug\GenericDemo.exe.config
+D:\projects\C#OOP-Advanced\OOPAdvanced\GenericDemo\bin\Debug\GenericDemo.exe
+D:\projects\C#OOP-Advanced\OOPAdvanced\GenericDemo\bin\Debug\GenericDemo.pdb
+D:\projects\C#OOP-Advanced\OOPAdvanced\GenericDemo\obj\Debug\GenericDemo.csprojResolveAssemblyReference.cache
+D:\projects\C#OOP-Advanced\OOPAdvanced\GenericDemo\obj\Debug\GenericDemo.csproj.CoreCompileInputs.cache
+D:\projects\C#OOP-Advanced\OOPAdvanced\GenericDemo\obj\Debug\GenericDemo.exe
+D:\projects\C#OOP-Advanced\OOPAdvanced\GenericDemo\obj\Debug\GenericDemo.pdb

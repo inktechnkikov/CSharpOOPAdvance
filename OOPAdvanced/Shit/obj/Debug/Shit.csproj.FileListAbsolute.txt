@@ -1,0 +1,7 @@
+D:\projects\C#OOP-Advanced\OOPAdvanced\Shit\bin\Debug\Shit.exe.config
+D:\projects\C#OOP-Advanced\OOPAdvanced\Shit\bin\Debug\Shit.exe
+D:\projects\C#OOP-Advanced\OOPAdvanced\Shit\bin\Debug\Shit.pdb
+D:\projects\C#OOP-Advanced\OOPAdvanced\Shit\obj\Debug\Shit.csproj.CoreCompileInputs.cache
+D:\projects\C#OOP-Advanced\OOPAdvanced\Shit\obj\Debug\Shit.exe
+D:\projects\C#OOP-Advanced\OOPAdvanced\Shit\obj\Debug\Shit.pdb
+D:\projects\C#OOP-Advanced\OOPAdvanced\Shit\obj\Debug\Shit.csprojResolveAssemblyReference.cache
