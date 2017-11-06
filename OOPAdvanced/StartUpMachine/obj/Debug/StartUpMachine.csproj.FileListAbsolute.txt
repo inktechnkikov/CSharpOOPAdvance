@@ -5,3 +5,10 @@ D:\projects\C#OOP-Advanced\OOPAdvanced\StartUpMachine\obj\Debug\StartUpMachine.c
 D:\projects\C#OOP-Advanced\OOPAdvanced\StartUpMachine\obj\Debug\StartUpMachine.csproj.CoreCompileInputs.cache
 D:\projects\C#OOP-Advanced\OOPAdvanced\StartUpMachine\obj\Debug\StartUpMachine.exe
 D:\projects\C#OOP-Advanced\OOPAdvanced\StartUpMachine\obj\Debug\StartUpMachine.pdb
+D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpMachine\bin\Debug\StartUpMachine.exe.config
+D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpMachine\bin\Debug\StartUpMachine.exe
+D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpMachine\bin\Debug\StartUpMachine.pdb
+D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpMachine\obj\Debug\StartUpMachine.csprojResolveAssemblyReference.cache
+D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpMachine\obj\Debug\StartUpMachine.csproj.CoreCompileInputs.cache
+D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpMachine\obj\Debug\StartUpMachine.exe
+D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpMachine\obj\Debug\StartUpMachine.pdb

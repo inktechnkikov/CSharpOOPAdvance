@@ -1,6 +1,0 @@
-D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemoRefactored\bin\Debug\SalaryDemoRefactored.exe.config
-D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemoRefactored\bin\Debug\SalaryDemoRefactored.exe
-D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemoRefactored\bin\Debug\SalaryDemoRefactored.pdb
-D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemoRefactored\obj\Debug\SalaryDemoRefactored.csproj.CoreCompileInputs.cache
-D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemoRefactored\obj\Debug\SalaryDemoRefactored.exe
-D:\projects\C#OOP-Advanced\OOPAdvanced\SalaryDemoRefactored\obj\Debug\SalaryDemoRefactored.pdb

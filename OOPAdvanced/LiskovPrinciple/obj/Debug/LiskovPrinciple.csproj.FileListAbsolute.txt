@@ -1,6 +1,0 @@
-D:\projects\C#OOP-Advanced\OOPAdvanced\LiskovPrinciple\bin\Debug\LiskovPrinciple.exe.config
-D:\projects\C#OOP-Advanced\OOPAdvanced\LiskovPrinciple\bin\Debug\LiskovPrinciple.exe
-D:\projects\C#OOP-Advanced\OOPAdvanced\LiskovPrinciple\bin\Debug\LiskovPrinciple.pdb
-D:\projects\C#OOP-Advanced\OOPAdvanced\LiskovPrinciple\obj\Debug\LiskovPrinciple.csproj.CoreCompileInputs.cache
-D:\projects\C#OOP-Advanced\OOPAdvanced\LiskovPrinciple\obj\Debug\LiskovPrinciple.exe
-D:\projects\C#OOP-Advanced\OOPAdvanced\LiskovPrinciple\obj\Debug\LiskovPrinciple.pdb
