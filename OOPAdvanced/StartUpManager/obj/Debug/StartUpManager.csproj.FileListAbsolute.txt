@@ -8,7 +8,6 @@ D:\projects\C#OOP-Advanced\OOPAdvanced\StartUpManager\obj\Debug\StartUpManager.p
 D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpManager\bin\Debug\StartUpManager.exe.config
 D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpManager\bin\Debug\StartUpManager.exe
 D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpManager\bin\Debug\StartUpManager.pdb
-D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpManager\obj\Debug\StartUpManager.csprojResolveAssemblyReference.cache
 D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpManager\obj\Debug\StartUpManager.csproj.CoreCompileInputs.cache
 D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpManager\obj\Debug\StartUpManager.exe
 D:\projects\CSharpOOPAdv\OOPAdvanced\StartUpManager\obj\Debug\StartUpManager.pdb

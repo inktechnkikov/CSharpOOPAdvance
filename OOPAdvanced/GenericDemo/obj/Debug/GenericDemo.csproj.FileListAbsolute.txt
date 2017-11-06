@@ -5,3 +5,10 @@ D:\projects\C#OOP-Advanced\OOPAdvanced\GenericDemo\obj\Debug\GenericDemo.csprojR
 D:\projects\C#OOP-Advanced\OOPAdvanced\GenericDemo\obj\Debug\GenericDemo.csproj.CoreCompileInputs.cache
 D:\projects\C#OOP-Advanced\OOPAdvanced\GenericDemo\obj\Debug\GenericDemo.exe
 D:\projects\C#OOP-Advanced\OOPAdvanced\GenericDemo\obj\Debug\GenericDemo.pdb
+D:\projects\CSharpOOPAdv\OOPAdvanced\GenericDemo\bin\Debug\GenericDemo.exe.config
+D:\projects\CSharpOOPAdv\OOPAdvanced\GenericDemo\bin\Debug\GenericDemo.exe
+D:\projects\CSharpOOPAdv\OOPAdvanced\GenericDemo\bin\Debug\GenericDemo.pdb
+D:\projects\CSharpOOPAdv\OOPAdvanced\GenericDemo\obj\Debug\GenericDemo.csprojResolveAssemblyReference.cache
+D:\projects\CSharpOOPAdv\OOPAdvanced\GenericDemo\obj\Debug\GenericDemo.csproj.CoreCompileInputs.cache
+D:\projects\CSharpOOPAdv\OOPAdvanced\GenericDemo\obj\Debug\GenericDemo.exe
+D:\projects\CSharpOOPAdv\OOPAdvanced\GenericDemo\obj\Debug\GenericDemo.pdb

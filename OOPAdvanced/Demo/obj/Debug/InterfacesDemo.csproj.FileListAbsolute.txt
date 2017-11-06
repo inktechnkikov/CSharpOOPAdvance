@@ -8,7 +8,6 @@ D:\projects\C#OOP-Advanced\OOPAdvanced\Demo\obj\Debug\Demo.pdb
 D:\projects\CSharpOOPAdv\OOPAdvanced\Demo\bin\Debug\Demo.exe.config
 D:\projects\CSharpOOPAdv\OOPAdvanced\Demo\bin\Debug\Demo.exe
 D:\projects\CSharpOOPAdv\OOPAdvanced\Demo\bin\Debug\Demo.pdb
-D:\projects\CSharpOOPAdv\OOPAdvanced\Demo\obj\Debug\InterfacesDemo.csprojResolveAssemblyReference.cache
 D:\projects\CSharpOOPAdv\OOPAdvanced\Demo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
 D:\projects\CSharpOOPAdv\OOPAdvanced\Demo\obj\Debug\Demo.exe
 D:\projects\CSharpOOPAdv\OOPAdvanced\Demo\obj\Debug\Demo.pdb

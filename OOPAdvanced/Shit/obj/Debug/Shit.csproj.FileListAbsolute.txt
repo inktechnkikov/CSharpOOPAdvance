@@ -5,3 +5,10 @@ D:\projects\C#OOP-Advanced\OOPAdvanced\Shit\obj\Debug\Shit.csproj.CoreCompileInp
 D:\projects\C#OOP-Advanced\OOPAdvanced\Shit\obj\Debug\Shit.exe
 D:\projects\C#OOP-Advanced\OOPAdvanced\Shit\obj\Debug\Shit.pdb
 D:\projects\C#OOP-Advanced\OOPAdvanced\Shit\obj\Debug\Shit.csprojResolveAssemblyReference.cache
+D:\projects\CSharpOOPAdv\OOPAdvanced\Shit\bin\Debug\Shit.exe.config
+D:\projects\CSharpOOPAdv\OOPAdvanced\Shit\bin\Debug\Shit.exe
+D:\projects\CSharpOOPAdv\OOPAdvanced\Shit\bin\Debug\Shit.pdb
+D:\projects\CSharpOOPAdv\OOPAdvanced\Shit\obj\Debug\Shit.csprojResolveAssemblyReference.cache
+D:\projects\CSharpOOPAdv\OOPAdvanced\Shit\obj\Debug\Shit.csproj.CoreCompileInputs.cache
+D:\projects\CSharpOOPAdv\OOPAdvanced\Shit\obj\Debug\Shit.exe
+D:\projects\CSharpOOPAdv\OOPAdvanced\Shit\obj\Debug\Shit.pdb
